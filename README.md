@@ -1,7 +1,14 @@
 
 # Discord.js raider
 
-This project is made for educational and entertainment purposes only! Please do not perform any action on Discord Guilds you are unauthorized to make changes to! Now let's get to the fun stuff! What does it do you may ask? It spams roles and channels. It has support for multiple bots at the same time. It is very simple and you will encounter errors.
+### Disclaimer:  
+This project is created solely for educational and entertainment purposes. **Unauthorized actions on Discord servers (guilds) are strictly prohibited.** Always ensure you have explicit permission to make changes to any Discord server before using this software. The creators are not responsible for any misuse or violations of Discord’s Terms of Service.  
+
+### What Does This Project Do?  
+This project is a tool designed to demonstrate Discord bot functionality in an experimental way. Here are its key features:  
+- **Role and Channel Automation:** Creates multiple roles and channels in a server.  
+- **Multi-Bot Support:** Capable of running multiple bots simultaneously for enhanced functionality.  
+- **User-Friendly Simplicity:** Designed to be straightforward, but be aware that errors may occur due to its experimental nature.  
 
 
 ## Features
